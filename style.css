@@ -21,6 +21,10 @@
 		margin: auto;
 	}
 
+	.images {
+		text-align: center;
+	}
+
 	.links {
 		background-color: #eeeeee;
 		margin-bottom: 25px;
@@ -72,6 +76,7 @@
 	.jacquouillejour, .jacquouillenuit {
 		margin-bottom: 30px;
 		border-radius: 0.4rem;
+		width: -webkit-fill-available;
 	}
 
 	#emojiLol {
