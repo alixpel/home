@@ -16,9 +16,8 @@
 		display: flex;
 		flex-direction: row;
 		justify-content: space-evenly;
-		margin-top: 14px;
-		margin-bottom: 30px;
 		margin: auto;
+		margin-bottom: 1vh;
 	}
 
 	.images {
@@ -115,8 +114,8 @@
 			flex-direction: row;
 			justify-content: space-evenly;
 			width: 93%;
-			margin-top: 8vh;
-			margin-bottom: 8vh;
+			margin-top: 4vh;
+			margin-bottom: 4vh;
 		}
 
 		.button {
