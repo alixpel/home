@@ -29,9 +29,3 @@ document.querySelector("h1").style.color = '#011936';
 document.querySelector("p").style.color = '#011936';
 document.querySelector(".day-button").style.display = "none";
 
-// clickMe button
-let clickMe = document.getElementById('clickMe');
-clickMe.addEventListener('click', lol);
-function lol() {
-	document.querySelector('button.lol').outerHTML = '<img src="https://media2.giphy.com/media/3o6ozvv0zsJskzOCbu/giphy.gif?cid=ecf05e47i655p2nmqpfxkh8z14h6s0enb57se4idy8w7xz29&rid=giphy.gif&ct=g" width="80" height="80" id="emojiLol">';
-}
