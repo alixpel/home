@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alix Pelletier</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
-
+<h4 align="center"><a href="https://alixpel.github.io/home/">My homepage</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alixpel&label=Profile%20views&color=0e75b6&style=flat" alt="alixpel" /> </p>
-
-- 🔭 I’m currently working on [stuff](https://github.com/alixpel)
-
-- 📄 Know about my experiences [here](https://alixpel.github.io/home/)
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
