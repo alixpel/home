@@ -78,6 +78,15 @@
 		padding: 0.5rem 1rem 0.4rem 1rem;
 	}
 
+	.button:hover {
+		border-radius: 0.5rem;
+		transition: transform 650ms;
+	  }
+
+	.button:not(:hover) {
+		transition: transform 650ms;
+	  }
+
 	.jacquouillejour, .jacquouillenuit {
 		margin-bottom: 30px;
 		border-radius: 0.4rem;
