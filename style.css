@@ -141,9 +141,9 @@
 	}
 
 	.stack img {
-		height: 40px;
+		height: auto;
 		padding: 0rem 0.5rem;
-		width: 40px;
+		width: 5vw;
 	}
 
 /* ======================================================= */
@@ -221,6 +221,8 @@
 		}
 
 		.stack img {
+			height: auto;
 			padding: 1rem;
+			width: 10vw;
 		}
 	}
