@@ -29,3 +29,11 @@ document.querySelector("h1").style.color = '#011936';
 document.querySelector("p").style.color = '#011936';
 document.querySelector(".day-button").style.display = "none";
 
+//blinking of index pointing hand
+function blink(Obj) { 
+	if (Obj.style.visibility == "visible" ) 
+	{ Obj.style.visibility = "hidden"; } 
+	else 
+	{ Obj.style.visibility = "visible"; } 
+}
+setInterval("blink(index)",700);
