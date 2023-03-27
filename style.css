@@ -169,7 +169,7 @@
 			justify-content: space-evenly;
 			width: 93%;
 			margin-top: 2vh;
-			margin-bottom: 2vh;
+			margin-bottom: 1vh;
 		}
 
 		.stack {
@@ -184,7 +184,7 @@
 
 		.button {
 	    		font-size: 4em;
-			padding: 3rem 3rem;
+			padding: 2rem 3rem;
 	  	}
 
 		h1 {
