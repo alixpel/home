@@ -1,8 +1,9 @@
 <h1 align="center">Alix Pelletier</h1>
 <h3 align="center">Bridging the gap between technical solutions and business needs</h3>
 <h4 align="center"><a href="https://alixpel.github.io/home/">My homepage</a></h4>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=alixpel&label=Profile%20views&color=0e75b6&style=flat" alt="alixpel" /></p>
-<br/>
+
+
+---
 
 ### Connect with me:
 <p align="left">
@@ -27,7 +28,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.JS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/></a>&nbsp;
 
 #### Backend Development
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"  title="Node.JS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"  title="Node.JS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>&nbsp;
 <a href="https://cap.cloud.sap/docs/" target="_blank" rel="noreferrer"  title="SAP Cloud Application Programming Model"><img src="https://cap.cloud.sap/docs/cap-logo.svg" alt="nodejs" width="60" height="60"/></a>
 
 #### Database
