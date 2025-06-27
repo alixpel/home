@@ -1,6 +1,6 @@
 <h1 align="center">Alix Pelletier</h1>
 <h3 align="center">Bridging the gap between technical solutions and business needs</h3>
-<h4 align="center"><a href="https://alixpel.github.io/home/">My homepage</a></h4>
+<h4 align="center"><a href="https://alixpel.github.io/home/" target="_blank">My homepage</a></h4>
 
 
 ---
