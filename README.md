@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:alixpelletierpro@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_icon.svg" alt="email me" width="60" height="60"/></a>&nbsp;
+<a href="mailto:alixpelletierpro@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" alt="email me" width="60" height="60"/></a>&nbsp;
 <a href="https://linkedin.com/in/alixpelletier" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alixpelletier" height="40" width="60" /></a>
 </p>
 <br/>
