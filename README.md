@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alix Pelletier</h1>
-<h3 align="center">A passionate full stack developer from France</h3>
+<h1 align="center">Alix Pelletier</h1>
+<h3 align="center">Bridging the gap between technical solutions and business needs</h3>
 <h4 align="center"><a href="https://alixpel.github.io/home/">My homepage</a></h4>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alixpel&label=Profile%20views&color=0e75b6&style=flat" alt="alixpel" /></p>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:alixpelletierpro@gmail.com" style="text-decoration: none;" target="blank"><span style="font-size:40em">✉</span></a>&nbsp;
-<a href="https://linkedin.com/in/alixpelletier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alixpelletier" height="40" width="60" /></a>
+<a href="mailto:alixpelletierpro@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_icon.svg" alt="email me" width="60" height="60"/></a>&nbsp;
+<a href="https://linkedin.com/in/alixpelletier" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alixpelletier" height="40" width="60" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +20,7 @@
 <h4>Frontend Development</h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="html5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="css3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  title="UI5"><img src="https://openui5.org/5bdd288371ed8100415f04563acc8dfe/phenix_blue.svg" alt="html5" width="60" height="60"/></a>&nbsp;
+<a href="https://openui5.org" target="_blank" rel="noreferrer"  title="UI5"><img src="https://openui5.org/5bdd288371ed8100415f04563acc8dfe/phenix_blue.svg" alt="html5" width="60" height="60"/></a>&nbsp;
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.JS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/></a>&nbsp;
 
 <h4>Backend Development</h4>
