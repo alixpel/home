@@ -1,7 +1,7 @@
 
 	body {
 		font-family: 'Concert One', sans-serif;
-		background-color: #f9f7f2;
+		background: linear-gradient(134deg,rgba(205, 255, 233, 1) 0%, rgba(255, 245, 237, 1) 50%, rgba(92, 229, 230, 1) 100%);
 	}
 
 	.main {
