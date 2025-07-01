@@ -231,6 +231,10 @@
 			padding: 2rem 3rem;
 	  	}
 
+		hr {
+			margin-top: 4rem;
+		}
+
 		h1 {
     		font-size: 6em;
    		}
@@ -240,12 +244,13 @@
 		}
 
 		h3 {
-			font-size: 3rem;
+			font-size: 2rem;
+			margin: 3rem 0rem;
 		}
 
 		h4 {
-			font-size: 1.6rem;
-			margin-bottom: 2rem;
+			font-size: 1.5rem;
+			margin-bottom: 3.5rem;
 		}
 
 		.stack-item span {
