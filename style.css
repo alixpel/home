@@ -226,8 +226,8 @@
 			margin-top: 2rem;
 		}
 
-		.button {
-	    		font-size: 4em;
+		.button-group .button {
+	    		font-size: 3em;
 			padding: 2rem 3rem;
 	  	}
 
