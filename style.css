@@ -268,7 +268,8 @@
 			width: 100%;
 		}
 
-		.stack img {
-			
+		.stack-item img {
+			min-width: 7rem;
+        		min-height: 7rem;
 		}
 	}
